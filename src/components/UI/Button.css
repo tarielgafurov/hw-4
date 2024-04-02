@@ -1,0 +1,16 @@
+button{
+    padding: 10px 40px;
+    background-color: violet;
+    color: white;
+    font-size: 23px;
+    border-radius: 15px;
+    border: none;
+}
+button:hover{
+    transform: scale(1.1);
+    transition-duration: 0.5s;
+    background-color: greenyellow;
+}
+button:active{
+    background-color: black;
+}
